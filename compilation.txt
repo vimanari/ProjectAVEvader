@@ -1,0 +1,1 @@
+C:\TDM-GCC-64\bin\g++.exe -std=c++11 C:\Users\c.dooku\Desktop\Final\maldev-net.cpp -o C:\Users\c.dooku\Desktop\maldev-net.exe -s -lws2_32 -Wno-write-strings -fno-exceptions -fmerge-all-constants -static-libstdc++ -static-libgcc -fpermissive
